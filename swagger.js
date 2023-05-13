@@ -34,7 +34,8 @@ const doc = {
   definitions: {
     Movie: {
       name: 'Ghosted',
-      summary: 'Ghosted is a 2023 American romantic action-adventure comedy film directed by Dexter Fletcher and written by Rhett Reese, Paul Wernick, Chris McKenna, and Erik Sommers, from a story by Reese and Wernick',
+      summary:
+        'Ghosted is a 2023 American romantic action-adventure comedy film directed by Dexter Fletcher and written by Rhett Reese, Paul Wernick, Chris McKenna, and Erik Sommers, from a story by Reese and Wernick',
       rank: 75,
       mainActors: ['Chris Evans', 'Ana de Armas'],
     },

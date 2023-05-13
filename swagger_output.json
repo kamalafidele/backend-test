@@ -5,7 +5,7 @@
     "title": "MyTop100Movies",
     "description": "MyTop100Movies  API documentation"
   },
-  "host": "http://localhost:8080",
+  "host": "https://backend-test-r4qx.onrender.com/",
   "basePath": "/api/v1/",
   "tags": [
     {
